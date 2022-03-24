@@ -18,3 +18,50 @@
     font-weight: 600;
     margin-bottom: 10px;
 }
+.btn{
+    border-radius: 7px;
+}
+.cat1{
+    padding: 10px;
+    border-radius: 20px;
+    color: rgb(48, 14, 14);
+    border-right: 5px solid white;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.cat2{
+    padding: 10px;
+    border-radius: 20px;
+    color: rgb(48, 14, 14);
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.cat3{
+    padding: 10px;
+    border-radius: 20px;
+    color: rgb(48, 14, 14);
+    border-left: 5px solid white;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.categories img{
+    height: 150px;
+
+}
+
+/* main */
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px lightgray ;
+}
+
+/* footer */
+.footer{
+    background-color: #d0d0f5;
+    height: 300px;
+    margin-bottom: 0px;
+}
